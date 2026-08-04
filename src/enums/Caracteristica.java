@@ -1,12 +1,13 @@
 package enums;
 
-public enum Caracteristicas {
+public enum Caracteristica {
     MAMIFERO,
     AQUATICO,
     AVE,
     REPTIL,
     CARNIVORO,
     HERBIVORO,
+    TEM_PELOS,
     BOTA_OVO,
     VENENOSO,
     ANIMAL_DOMESTICO,
